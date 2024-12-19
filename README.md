@@ -56,3 +56,24 @@ The required parameters for HITS program are five:
 4.	**“Nreps”:** the number of randomized independent runs of the tabu search algorithm. This is done to avoid getting trapped in local maxima using a single run.
 5.	**“d”:** the upper bound for the absolute value of each regression coefficient. It can be set to an arbitrary large value to allow unconstrained maximization. Alternatively, it can be set to a stricter value (say 1e5) to put bound constraints on the regression coefficients. The parameter d applied to each regression coefficient.
 
+# Running 
+
+During the run the user can see:  
+
+1.	The progress bar filling in (proportionally to: run i over Nreps, the total number of runs).
+2.	The log file: DemoExample_Cpp_tabusearch_opt_log_iter200.txt with the trajectory of the search.
+3.	The info file: DemoExample_Cpp_tabusearch_opt_info_iter200 .txt with advanced debug information.
+
+# Output 
+
+The basic output of HITS is a text file with name DemoExample_Cpp_tabusearch_opt_log_iter200.txt that contains all the information:  
+
+The software at the time of inspection of results presents a screen with the progress bar filled in 100%:  
+
+Then, the user can complete the analysis hitting CLOSE button and inspect the solution output files already discussed above.  
+
+# Acknowledgements 
+
+I would like to thank Dr. **Alexandros Louka** and Professor **Yannis Bilias** for their valuable help and the shared ideas for the development of HITS. The development of the HITS software was supported by the Hellenic Foundation for Research and Innovation (H.F.R.I.) under the '2nd Call for H.F.R.I. Research Projects to support Post-Doctoral Researchers' (Project Number: 902). 
+
+
