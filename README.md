@@ -64,6 +64,8 @@ During the run the user can see:
 2.	The log file: DemoExample_Cpp_tabusearch_opt_log_iter200.txt with the trajectory of the search.
 3.	The info file: DemoExample_Cpp_tabusearch_opt_info_iter200 .txt with advanced debug information.
 
+![Screenshot of a HITS run for the Martins benchmark.](https://github.com/kflorios/hits/blob/main/docs/HITS_running.jpg?raw=true)
+
 # Output 
 
 The basic output of HITS is a text file with name DemoExample_Cpp_tabusearch_opt_log_iter200.txt that contains all the information:  
