@@ -46,3 +46,13 @@ b0 = -1
 Nreps = 10  
 d = 1e300  
 
+# PARAMETERS
+
+The required parameters for HITS program are five: 
+
+1.	“n”: the number of rows in the loaded dataset or the number of observations in the regression.  
+2.	“p”: the number of columns in the loaded dataset or the number of independent variables in the regression.  
+3.	“b0”: is set to either 1 or -1 and is the coefficient of the first independent variable. This is done for identification and because the MS is identified up-to-scale. Multiplying the regression coefficients by any positive constant number provides the same objective function value. Prior knowledge can be used to select 1 or -1, or in general both values can be tried, and the regression will be run twice.
+4.	“Nreps”: the number of randomized independent runs of the tabu search algorithm. This is done to avoid getting trapped in local maxima using a single run.
+5.	“d”: the upper bound for the absolute value of each regression coefficient. It can be set to an arbitrary large value to allow unconstrained maximization. Alternatively, it can be set to a stricter value (say 1e5) to put bound constraints on the regression coefficients. The parameter d applied to each regression coefficient.
+
