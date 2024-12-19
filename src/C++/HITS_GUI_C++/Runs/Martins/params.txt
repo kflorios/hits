@@ -1,0 +1,8 @@
+n = 2339
+p = 7
+b0 = -1
+Nreps = 10
+d = 1e300
+//ntenure = 50
+//niterovermax = 50
+//niterover = 200

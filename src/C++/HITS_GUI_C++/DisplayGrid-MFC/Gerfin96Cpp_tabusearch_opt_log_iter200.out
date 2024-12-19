@@ -1,0 +1,66 @@
+this is Discrete tabu search algorithm
+for maximum score estimation
+==========1==========
+Initial score is 0.598624
+Initial attributes: 168 305 418 491 510 705 781 
+ MaxScore = 0.668578 dzmax = 0.069954 Max Score Ever = 0.668578 
+ MaxScore = 0.677752 dzmax = 0.009174 Max Score Ever = 0.677752 
+ MaxScore = 0.682339 dzmax = 0.004587 Max Score Ever = 0.682339 
+ MaxScore = 0.682339 dzmax = 0.000000 Max Score Ever = 0.682339 
+ MaxScore = 0.682339 dzmax = 0.000000 Max Score Ever = 0.682339 
+ MaxScore = 0.684633 dzmax = 0.002294 Max Score Ever = 0.684633 
+ MaxScore = 0.686927 dzmax = 0.002294 Max Score Ever = 0.686927 
+ MaxScore = 0.686927 dzmax = 0.000000 Max Score Ever = 0.686927 
+ MaxScore = 0.686927 dzmax = 0.000000 Max Score Ever = 0.686927 
+ MaxScore = 0.686927 dzmax = 0.000000 Max Score Ever = 0.686927 
+ MaxScore = 0.686927 dzmax = 0.000000 Max Score Ever = 0.686927 
+ MaxScore = 0.686927 dzmax = 0.000000 Max Score Ever = 0.686927 
+ MaxScore = 0.689220 dzmax = 0.002294 Max Score Ever = 0.689220 
+ MaxScore = 0.694954 dzmax = 0.005734 Max Score Ever = 0.694954 
+ MaxScore = 0.696101 dzmax = 0.001147 Max Score Ever = 0.696101 
+ MaxScore = 0.698394 dzmax = 0.002294 Max Score Ever = 0.698394 
+ MaxScore = 0.699541 dzmax = 0.001147 Max Score Ever = 0.699541 
+ MaxScore = 0.699541 dzmax = 0.000000 Max Score Ever = 0.699541 
+ MaxScore = 0.699541 dzmax = 0.000000 Max Score Ever = 0.699541 
+ MaxScore = 0.699541 dzmax = 0.000000 Max Score Ever = 0.699541 
+ MaxScore = 0.699541 dzmax = 0.000000 Max Score Ever = 0.699541 
+ MaxScore = 0.699541 dzmax = 0.000000 Max Score Ever = 0.699541 
+ MaxScore = 0.699541 dzmax = 0.000000 Max Score Ever = 0.699541 
+ MaxScore = 0.699541 dzmax = 0.000000 Max Score Ever = 0.699541 
+ MaxScore = 0.699541 dzmax = 0.000000 Max Score Ever = 0.699541 
+ MaxScore = 0.699541 dzmax = 0.000000 Max Score Ever = 0.699541 
+ MaxScore = 0.699541 dzmax = 0.000000 Max Score Ever = 0.699541 
+ MaxScore = 0.699541 dzmax = 0.000000 Max Score Ever = 0.699541 
+ MaxScore = 0.699541 dzmax = 0.000000 Max Score Ever = 0.699541 
+ MaxScore = 0.699541 dzmax = 0.000000 Max Score Ever = 0.699541 
+ MaxScore = 0.699541 dzmax = 0.000000 Max Score Ever = 0.699541 
+ MaxScore = 0.699541 dzmax = 0.000000 Max Score Ever = 0.699541 
+ MaxScore = 0.699541 dzmax = 0.000000 Max Score Ever = 0.699541 
+ MaxScore = 0.699541 dzmax = 0.000000 Max Score Ever = 0.699541 
+ MaxScore = 0.699541 dzmax = 0.000000 Max Score Ever = 0.699541 
+ MaxScore = 0.699541 dzmax = 0.000000 Max Score Ever = 0.699541 
+ MaxScore = 0.699541 dzmax = 0.000000 Max Score Ever = 0.699541 
+ MaxScore = 0.699541 dzmax = 0.000000 Max Score Ever = 0.699541 
+ MaxScore = 0.699541 dzmax = 0.000000 Max Score Ever = 0.699541 
+ MaxScore = 0.699541 dzmax = 0.000000 Max Score Ever = 0.699541 
+ MaxScore = 0.699541 dzmax = 0.000000 Max Score Ever = 0.699541 
+ MaxScore = 0.699541 dzmax = 0.000000 Max Score Ever = 0.699541 
+ MaxScore = 0.699541 dzmax = 0.000000 Max Score Ever = 0.699541 
+ MaxScore = 0.701835 dzmax = 0.002294 Max Score Ever = 0.701835 
+ MaxScore = 0.701835 dzmax = 0.000000 Max Score Ever = 0.701835 
+ MaxScore = 0.701835 dzmax = 0.000000 Max Score Ever = 0.701835 
+ MaxScore = 0.701835 dzmax = 0.000000 Max Score Ever = 0.701835 
+ MaxScore = 0.701835 dzmax = 0.000000 Max Score Ever = 0.701835 
+ MaxScore = 0.701835 dzmax = 0.000000 Max Score Ever = 0.701835 
+ MaxScore = 0.701835 dzmax = 0.000000 Max Score Ever = 0.701835 
+ MaxScore = 0.701835 dzmax = 0.000000 Max Score Ever = 0.701835 
+ MaxScore = 0.701835 dzmax = 0.000000 Max Score Ever = 0.701835 
+ MaxScore = 0.701835 dzmax = 0.000000 Max Score Ever = 0.701835 
+ MaxScore = 0.701835 dzmax = 0.000000 Max Score Ever = 0.701835 
+ MaxScore = 0.701835 dzmax = 0.000000 Max Score Ever = 0.701835 
+ MaxScore = 0.701835 dzmax = 0.000000 Max Score Ever = 0.701835 
+ MaxScore = 0.701835 dzmax = 0.000000 Max Score Ever = 0.701835 
+ MaxScore = 0.701835 dzmax = 0.000000 Max Score Ever = 0.701835 
+ MaxScore = 0.701835 dzmax = 0.000000 Max Score Ever = 0.701835 
+ MaxScore = 0.701835 dzmax = 0.000000 Max Score Ever = 0.701835 
+ MaxScore = 0.701835 dzmax = 0.
