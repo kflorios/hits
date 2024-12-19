@@ -7,7 +7,7 @@ Hyperplanes Intersection Tabu Search (HITS) is a program that calculates the Max
 
 # Input 
 
-The basic input of the HITS program is 4 text files that contain the required information. Assume that we have the following dataset in a file called X.txt: 
+The basic input of the HITS program is 4 text files that contain the required information. Assume that we have the following dataset in a file called X.txt:   
 1	11.077	2	0	6	4.1	16.81	1  
 2	11.835	2	0	6	4.4	19.36	1  
 3	11.225	2	0	4	4.6	21.16	1  
@@ -20,7 +20,7 @@ The basic input of the HITS program is 4 text files that contain the required in
 2338	11.222	0	0	17	5.4	29.16	1  
 2339	10.964	0	0	17	3.9	15.21	1  
 
-Also, assume the response variable saved in file y.txt:
+Also, assume the response variable saved in file y.txt:  
 1       -1  
 2       -1  
 3       -1  
@@ -34,11 +34,11 @@ Also, assume the response variable saved in file y.txt:
 2339    1  
 
 Then, the auxiliary text files to complete the estimation problem formulation have the following form: 
-First the names.txt file looks like:
+First the names.txt file looks like:  
 
 OBS HW CHILD YCHILD EDU AGE AGE2 INTCPT  
 
-Second the params.txt file looks like:
+Second the params.txt file looks like:  
 
 n = 2339  
 p = 7  
