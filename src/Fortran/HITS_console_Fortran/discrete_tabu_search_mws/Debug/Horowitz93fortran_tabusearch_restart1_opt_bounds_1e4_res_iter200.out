@@ -1,0 +1,1210 @@
+ this is Discrete tabu search algorithm
+ for maximum score estimation
+ Initial score is   0.388361045130641     
+ Initial attributes           83         100         599         827
+        3356  neighbourhood moves checked for the current step
+   1658.000      better domains than current solution
+   323.0000      out of bounds domains rejected
+ Elapsed for iteration   1.000000      is  7.8125000E-02  seconds
+  MaxScore =  0.745843 dzmax =  0.357482 Max Score Ever =  0.745843
+ Attributes are          83         698         599         827
+        3356  neighbourhood moves checked for the current step
+   114.0000      better domains than current solution
+   14.00000      out of bounds domains rejected
+ Elapsed for iteration   2.000000      is  0.1718750      seconds
+  MaxScore =  0.768409 dzmax =  0.022565 Max Score Ever =  0.768409
+ Attributes are         798         599         698         827
+        3356  neighbourhood moves checked for the current step
+   81.00000      better domains than current solution
+   91.00000      out of bounds domains rejected
+ Elapsed for iteration   3.000000      is  0.2500000      seconds
+  MaxScore =  0.794537 dzmax =  0.026128 Max Score Ever =  0.794537
+ Attributes are         599          94         798         827
+        3356  neighbourhood moves checked for the current step
+   113.0000      better domains than current solution
+   23.00000      out of bounds domains rejected
+ Elapsed for iteration   4.000000      is  0.3437500      seconds
+  MaxScore =  0.808789 dzmax =  0.014252 Max Score Ever =  0.808789
+ Attributes are          94         484         798         827
+        3356  neighbourhood moves checked for the current step
+   69.00000      better domains than current solution
+   335.0000      out of bounds domains rejected
+ Elapsed for iteration   5.000000      is  0.4218750      seconds
+  MaxScore =  0.826603 dzmax =  0.017815 Max Score Ever =  0.826603
+ Attributes are          94         484         417         827
+        3356  neighbourhood moves checked for the current step
+   6.000000      better domains than current solution
+   325.0000      out of bounds domains rejected
+ Elapsed for iteration   6.000000      is  0.5000000      seconds
+  MaxScore =  0.831354 dzmax =  0.004751 Max Score Ever =  0.831354
+ Attributes are         385         417         484         827
+        3356  neighbourhood moves checked for the current step
+   205.0000      better domains than current solution
+   19.00000      out of bounds domains rejected
+ Elapsed for iteration   7.000000      is  0.5781250      seconds
+  MaxScore =  0.865796 dzmax =  0.034442 Max Score Ever =  0.865796
+ Attributes are         385         446         484         827
+        3356  neighbourhood moves checked for the current step
+   41.00000      better domains than current solution
+   35.00000      out of bounds domains rejected
+ Elapsed for iteration   8.000000      is  0.6562500      seconds
+  MaxScore =  0.882423 dzmax =  0.016627 Max Score Ever =  0.882423
+ Attributes are         385         446         392         827
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   374.0000      out of bounds domains rejected
+ Elapsed for iteration   9.000000      is  0.7500000      seconds
+  MaxScore =  0.871734 dzmax = -0.010689 Max Score Ever =  0.882423
+ Attributes are         385           5         446         827
+        3356  neighbourhood moves checked for the current step
+   20.00000      better domains than current solution
+   23.00000      out of bounds domains rejected
+ Elapsed for iteration   10.00000      is  0.8437500      seconds
+  MaxScore =  0.874109 dzmax =  0.002375 Max Score Ever =  0.882423
+ Attributes are           5         385         446         205
+        3356  neighbourhood moves checked for the current step
+   121.0000      better domains than current solution
+   369.0000      out of bounds domains rejected
+ Elapsed for iteration   11.00000      is  0.9218750      seconds
+  MaxScore =  0.902613 dzmax =  0.028504 Max Score Ever =  0.902613
+ Attributes are           5         205           9         446
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   15.00000      out of bounds domains rejected
+ Elapsed for iteration   12.00000      is   1.000000      seconds
+  MaxScore =  0.902613 dzmax = -0.000000 Max Score Ever =  0.902613
+ Attributes are          23           9         205         446
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   15.00000      out of bounds domains rejected
+ Elapsed for iteration   13.00000      is   1.078125      seconds
+  MaxScore =  0.902613 dzmax =  0.000000 Max Score Ever =  0.902613
+ Attributes are           9          23         259         446
+        3356  neighbourhood moves checked for the current step
+   4.000000      better domains than current solution
+   42.00000      out of bounds domains rejected
+ Elapsed for iteration   14.00000      is   1.171875      seconds
+  MaxScore =  0.904988 dzmax =  0.002375 Max Score Ever =  0.904988
+ Attributes are           9          57         259         446
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   45.00000      out of bounds domains rejected
+ Elapsed for iteration   15.00000      is   1.265625      seconds
+  MaxScore =  0.903800 dzmax = -0.001188 Max Score Ever =  0.904988
+ Attributes are           9          81         259         446
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   38.00000      out of bounds domains rejected
+ Elapsed for iteration   16.00000      is   1.343750      seconds
+  MaxScore =  0.903800 dzmax = -0.000000 Max Score Ever =  0.904988
+ Attributes are          63          81         259         446
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   35.00000      out of bounds domains rejected
+ Elapsed for iteration   17.00000      is   1.421875      seconds
+  MaxScore =  0.903800 dzmax =  0.000000 Max Score Ever =  0.904988
+ Attributes are          63         216         259         446
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   45.00000      out of bounds domains rejected
+ Elapsed for iteration   18.00000      is   1.515625      seconds
+  MaxScore =  0.902613 dzmax = -0.001188 Max Score Ever =  0.904988
+ Attributes are          81         216         259         446
+        3356  neighbourhood moves checked for the current step
+   5.000000      better domains than current solution
+   39.00000      out of bounds domains rejected
+ Elapsed for iteration   19.00000      is   1.609375      seconds
+  MaxScore =  0.903800 dzmax =  0.001188 Max Score Ever =  0.904988
+ Attributes are          81         216         633         446
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   24.00000      out of bounds domains rejected
+ Elapsed for iteration   20.00000      is   1.687500      seconds
+  MaxScore =  0.902613 dzmax = -0.001188 Max Score Ever =  0.904988
+ Attributes are         259         216         446         633
+        3356  neighbourhood moves checked for the current step
+   10.00000      better domains than current solution
+   379.0000      out of bounds domains rejected
+ Elapsed for iteration   21.00000      is   1.765625      seconds
+  MaxScore =  0.904988 dzmax =  0.002375 Max Score Ever =  0.904988
+ Attributes are          57         259         446         633
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   370.0000      out of bounds domains rejected
+ Elapsed for iteration   22.00000      is   1.843750      seconds
+  MaxScore =  0.903800 dzmax = -0.001188 Max Score Ever =  0.904988
+ Attributes are           9         259         446         633
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   378.0000      out of bounds domains rejected
+ Elapsed for iteration   23.00000      is   1.921875      seconds
+  MaxScore =  0.903800 dzmax =  0.000000 Max Score Ever =  0.904988
+ Attributes are          63         259         446         633
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   375.0000      out of bounds domains rejected
+ Elapsed for iteration   24.00000      is   2.000000      seconds
+  MaxScore =  0.903800 dzmax =  0.000000 Max Score Ever =  0.904988
+ Attributes are         749         259         446         633
+        3356  neighbourhood moves checked for the current step
+   1.000000      better domains than current solution
+   372.0000      out of bounds domains rejected
+ Elapsed for iteration   25.00000      is   2.078125      seconds
+  MaxScore =  0.904988 dzmax =  0.001188 Max Score Ever =  0.904988
+ Attributes are         331         446         633         749
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   16.00000      out of bounds domains rejected
+ Elapsed for iteration   26.00000      is   2.156250      seconds
+  MaxScore =  0.904988 dzmax = -0.000000 Max Score Ever =  0.904988
+ Attributes are         331         446         633         259
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   371.0000      out of bounds domains rejected
+ Elapsed for iteration   27.00000      is   2.234375      seconds
+  MaxScore =  0.903800 dzmax = -0.001188 Max Score Ever =  0.904988
+ Attributes are         259         223         446         633
+        3356  neighbourhood moves checked for the current step
+   8.000000      better domains than current solution
+   371.0000      out of bounds domains rejected
+ Elapsed for iteration   28.00000      is   2.312500      seconds
+  MaxScore =  0.906176 dzmax =  0.002375 Max Score Ever =  0.906176
+ Attributes are         223         259         446         147
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   42.00000      out of bounds domains rejected
+ Elapsed for iteration   29.00000      is   2.406250      seconds
+  MaxScore =  0.906176 dzmax = -0.000000 Max Score Ever =  0.906176
+ Attributes are         225         223         259         446
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   371.0000      out of bounds domains rejected
+ Elapsed for iteration   30.00000      is   2.484375      seconds
+  MaxScore =  0.906176 dzmax =  0.000000 Max Score Ever =  0.906176
+ Attributes are         223         225         259         423
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   358.0000      out of bounds domains rejected
+ Elapsed for iteration   31.00000      is   2.546875      seconds
+  MaxScore =  0.906176 dzmax =  0.000000 Max Score Ever =  0.906176
+ Attributes are         223         485         259         423
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   358.0000      out of bounds domains rejected
+ Elapsed for iteration   32.00000      is   2.625000      seconds
+  MaxScore =  0.904988 dzmax = -0.001188 Max Score Ever =  0.906176
+ Attributes are         204         259         423         485
+        3356  neighbourhood moves checked for the current step
+   2.000000      better domains than current solution
+   360.0000      out of bounds domains rejected
+ Elapsed for iteration   33.00000      is   2.703125      seconds
+  MaxScore =  0.904988 dzmax =  0.000000 Max Score Ever =  0.906176
+ Attributes are         452         259         423         485
+        3356  neighbourhood moves checked for the current step
+   3.000000      better domains than current solution
+   365.0000      out of bounds domains rejected
+ Elapsed for iteration   34.00000      is   2.781250      seconds
+  MaxScore =  0.906176 dzmax =  0.001188 Max Score Ever =  0.906176
+ Attributes are         225         423         452         485
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   386.0000      out of bounds domains rejected
+ Elapsed for iteration   35.00000      is   2.859375      seconds
+  MaxScore =  0.904988 dzmax = -0.001188 Max Score Ever =  0.906176
+ Attributes are         147         423         452         485
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   38.00000      out of bounds domains rejected
+ Elapsed for iteration   36.00000      is   2.953125      seconds
+  MaxScore =  0.904988 dzmax =  0.000000 Max Score Ever =  0.906176
+ Attributes are         147         423         452          68
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   33.00000      out of bounds domains rejected
+ Elapsed for iteration   37.00000      is   3.062500      seconds
+  MaxScore =  0.904988 dzmax =  0.000000 Max Score Ever =  0.906176
+ Attributes are          68          15         423         452
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   372.0000      out of bounds domains rejected
+ Elapsed for iteration   38.00000      is   3.140625      seconds
+  MaxScore =  0.904988 dzmax =  0.000000 Max Score Ever =  0.906176
+ Attributes are         223          68         423         452
+        3356  neighbourhood moves checked for the current step
+   1.000000      better domains than current solution
+   22.00000      out of bounds domains rejected
+ Elapsed for iteration   39.00000      is   3.218750      seconds
+  MaxScore =  0.906176 dzmax =  0.001188 Max Score Ever =  0.906176
+ Attributes are         280         223         423         452
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   20.00000      out of bounds domains rejected
+ Elapsed for iteration   40.00000      is   3.296875      seconds
+  MaxScore =  0.906176 dzmax = -0.000000 Max Score Ever =  0.906176
+ Attributes are         438         280         423         452
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   384.0000      out of bounds domains rejected
+ Elapsed for iteration   41.00000      is   3.375000      seconds
+  MaxScore =  0.906176 dzmax =  0.000000 Max Score Ever =  0.906176
+ Attributes are         280         423         438         223
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   363.0000      out of bounds domains rejected
+ Elapsed for iteration   42.00000      is   3.453125      seconds
+  MaxScore =  0.906176 dzmax =  0.000000 Max Score Ever =  0.906176
+ Attributes are         223          68         423         438
+        3356  neighbourhood moves checked for the current step
+   1.000000      better domains than current solution
+   369.0000      out of bounds domains rejected
+ Elapsed for iteration   43.00000      is   3.531250      seconds
+  MaxScore =  0.907363 dzmax =  0.001188 Max Score Ever =  0.907363
+ Attributes are          69         223         423         438
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   361.0000      out of bounds domains rejected
+ Elapsed for iteration   44.00000      is   3.609375      seconds
+  MaxScore =  0.907363 dzmax = -0.000000 Max Score Ever =  0.907363
+ Attributes are          69         223         423         280
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   360.0000      out of bounds domains rejected
+ Elapsed for iteration   45.00000      is   3.671875      seconds
+  MaxScore =  0.904988 dzmax = -0.002375 Max Score Ever =  0.907363
+ Attributes are          69         223         137         423
+        3356  neighbourhood moves checked for the current step
+   8.000000      better domains than current solution
+   370.0000      out of bounds domains rejected
+ Elapsed for iteration   46.00000      is   3.750000      seconds
+  MaxScore =  0.906176 dzmax =  0.001188 Max Score Ever =  0.907363
+ Attributes are          69         137         452         423
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   367.0000      out of bounds domains rejected
+ Elapsed for iteration   47.00000      is   3.828125      seconds
+  MaxScore =  0.904988 dzmax = -0.001188 Max Score Ever =  0.907363
+ Attributes are          15         137         423         452
+        3356  neighbourhood moves checked for the current step
+   2.000000      better domains than current solution
+   366.0000      out of bounds domains rejected
+ Elapsed for iteration   48.00000      is   3.906250      seconds
+  MaxScore =  0.906176 dzmax =  0.001188 Max Score Ever =  0.907363
+ Attributes are          15         137          59         452
+        3356  neighbourhood moves checked for the current step
+   2.000000      better domains than current solution
+   360.0000      out of bounds domains rejected
+ Elapsed for iteration   49.00000      is   4.000000      seconds
+  MaxScore =  0.906176 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are         280          59         137         452
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   364.0000      out of bounds domains rejected
+ Elapsed for iteration   50.00000      is   4.078125      seconds
+  MaxScore =  0.906176 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are          15         137         280         452
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   364.0000      out of bounds domains rejected
+ Elapsed for iteration   51.00000      is   4.156250      seconds
+  MaxScore =  0.906176 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are          15         137         280         204
+        3356  neighbourhood moves checked for the current step
+   2.000000      better domains than current solution
+   373.0000      out of bounds domains rejected
+ Elapsed for iteration   52.00000      is   4.234375      seconds
+  MaxScore =  0.907363 dzmax =  0.001188 Max Score Ever =  0.907363
+ Attributes are          15         137         204         485
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   363.0000      out of bounds domains rejected
+ Elapsed for iteration   53.00000      is   4.312500      seconds
+  MaxScore =  0.907363 dzmax = -0.000000 Max Score Ever =  0.907363
+ Attributes are          15         137         204         633
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   362.0000      out of bounds domains rejected
+ Elapsed for iteration   54.00000      is   4.390625      seconds
+  MaxScore =  0.906176 dzmax = -0.001188 Max Score Ever =  0.907363
+ Attributes are          15         137         204           5
+        3356  neighbourhood moves checked for the current step
+   2.000000      better domains than current solution
+   7.000000      out of bounds domains rejected
+ Elapsed for iteration   55.00000      is   4.484375      seconds
+  MaxScore =  0.906176 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are           5         492         137         204
+        3356  neighbourhood moves checked for the current step
+   1.000000      better domains than current solution
+   21.00000      out of bounds domains rejected
+ Elapsed for iteration   56.00000      is   4.578125      seconds
+  MaxScore =  0.907363 dzmax =  0.001188 Max Score Ever =  0.907363
+ Attributes are           5         137         212         492
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   18.00000      out of bounds domains rejected
+ Elapsed for iteration   57.00000      is   4.671875      seconds
+  MaxScore =  0.906176 dzmax = -0.001188 Max Score Ever =  0.907363
+ Attributes are           5          15         212         492
+        3356  neighbourhood moves checked for the current step
+   1.000000      better domains than current solution
+   10.00000      out of bounds domains rejected
+ Elapsed for iteration   58.00000      is   4.750000      seconds
+  MaxScore =  0.907363 dzmax =  0.001188 Max Score Ever =  0.907363
+ Attributes are           5          15         623         492
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   363.0000      out of bounds domains rejected
+ Elapsed for iteration   59.00000      is   4.828125      seconds
+  MaxScore =  0.906176 dzmax = -0.001188 Max Score Ever =  0.907363
+ Attributes are           5         212         492         623
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   17.00000      out of bounds domains rejected
+ Elapsed for iteration   60.00000      is   4.906250      seconds
+  MaxScore =  0.904988 dzmax = -0.001188 Max Score Ever =  0.907363
+ Attributes are           5         212         238         623
+        3356  neighbourhood moves checked for the current step
+   6.000000      better domains than current solution
+   16.00000      out of bounds domains rejected
+ Elapsed for iteration   61.00000      is   5.000000      seconds
+  MaxScore =  0.906176 dzmax =  0.001188 Max Score Ever =  0.907363
+ Attributes are           5         492         238         623
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   358.0000      out of bounds domains rejected
+ Elapsed for iteration   62.00000      is   5.078125      seconds
+  MaxScore =  0.904988 dzmax = -0.001188 Max Score Ever =  0.907363
+ Attributes are           5         238         225         623
+        3356  neighbourhood moves checked for the current step
+   3.000000      better domains than current solution
+   360.0000      out of bounds domains rejected
+ Elapsed for iteration   63.00000      is   5.156250      seconds
+  MaxScore =  0.906176 dzmax =  0.001188 Max Score Ever =  0.907363
+ Attributes are           5         225         238         204
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   21.00000      out of bounds domains rejected
+ Elapsed for iteration   64.00000      is   5.250000      seconds
+  MaxScore =  0.904988 dzmax = -0.001188 Max Score Ever =  0.907363
+ Attributes are           5         204         485         238
+        3356  neighbourhood moves checked for the current step
+   4.000000      better domains than current solution
+   22.00000      out of bounds domains rejected
+ Elapsed for iteration   65.00000      is   5.343750      seconds
+  MaxScore =  0.906176 dzmax =  0.001188 Max Score Ever =  0.907363
+ Attributes are         251         204         238         485
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   360.0000      out of bounds domains rejected
+ Elapsed for iteration   66.00000      is   5.421875      seconds
+  MaxScore =  0.906176 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are         212         238         251         485
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   359.0000      out of bounds domains rejected
+ Elapsed for iteration   67.00000      is   5.500000      seconds
+  MaxScore =  0.906176 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are         212         238         252         485
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   359.0000      out of bounds domains rejected
+ Elapsed for iteration   68.00000      is   5.578125      seconds
+  MaxScore =  0.904988 dzmax = -0.001188 Max Score Ever =  0.907363
+ Attributes are          57         238         252         485
+        3356  neighbourhood moves checked for the current step
+   3.000000      better domains than current solution
+   357.0000      out of bounds domains rejected
+ Elapsed for iteration   69.00000      is   5.671875      seconds
+  MaxScore =  0.904988 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are         204         238         252         485
+        3356  neighbourhood moves checked for the current step
+   1.000000      better domains than current solution
+   360.0000      out of bounds domains rejected
+ Elapsed for iteration   70.00000      is   5.750000      seconds
+  MaxScore =  0.906176 dzmax =  0.001188 Max Score Ever =  0.907363
+ Attributes are         204         238         252           5
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   15.00000      out of bounds domains rejected
+ Elapsed for iteration   71.00000      is   5.843750      seconds
+  MaxScore =  0.904988 dzmax = -0.001188 Max Score Ever =  0.907363
+ Attributes are         225         204         238         252
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   355.0000      out of bounds domains rejected
+ Elapsed for iteration   72.00000      is   5.921875      seconds
+  MaxScore =  0.904988 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are           5         225         238         252
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   357.0000      out of bounds domains rejected
+ Elapsed for iteration   73.00000      is   6.000000      seconds
+  MaxScore =  0.904988 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are          57         225         238         252
+        3356  neighbourhood moves checked for the current step
+   1.000000      better domains than current solution
+   354.0000      out of bounds domains rejected
+ Elapsed for iteration   74.00000      is   6.078125      seconds
+  MaxScore =  0.906176 dzmax =  0.001188 Max Score Ever =  0.907363
+ Attributes are          57         225          21         252
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   360.0000      out of bounds domains rejected
+ Elapsed for iteration   75.00000      is   6.156250      seconds
+  MaxScore =  0.904988 dzmax = -0.001188 Max Score Ever =  0.907363
+ Attributes are         434          57         225         252
+        3356  neighbourhood moves checked for the current step
+   1.000000      better domains than current solution
+   361.0000      out of bounds domains rejected
+ Elapsed for iteration   76.00000      is   6.234375      seconds
+  MaxScore =  0.906176 dzmax =  0.001188 Max Score Ever =  0.907363
+ Attributes are          81         225         252         434
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   361.0000      out of bounds domains rejected
+ Elapsed for iteration   77.00000      is   6.312500      seconds
+  MaxScore =  0.906176 dzmax = -0.000000 Max Score Ever =  0.907363
+ Attributes are          81         225         251         434
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   361.0000      out of bounds domains rejected
+ Elapsed for iteration   78.00000      is   6.390625      seconds
+  MaxScore =  0.904988 dzmax = -0.001188 Max Score Ever =  0.907363
+ Attributes are          63         225         251         434
+        3356  neighbourhood moves checked for the current step
+   7.000000      better domains than current solution
+   360.0000      out of bounds domains rejected
+ Elapsed for iteration   79.00000      is   6.468750      seconds
+  MaxScore =  0.906176 dzmax =  0.001188 Max Score Ever =  0.907363
+ Attributes are          63         225         251          17
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   363.0000      out of bounds domains rejected
+ Elapsed for iteration   80.00000      is   6.546875      seconds
+  MaxScore =  0.906176 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are          17         331         225         251
+        3356  neighbourhood moves checked for the current step
+   2.000000      better domains than current solution
+   366.0000      out of bounds domains rejected
+ Elapsed for iteration   81.00000      is   6.625000      seconds
+  MaxScore =  0.907363 dzmax =  0.001188 Max Score Ever =  0.907363
+ Attributes are         116         225         251         331
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   362.0000      out of bounds domains rejected
+ Elapsed for iteration   82.00000      is   6.703125      seconds
+  MaxScore =  0.907363 dzmax = -0.000000 Max Score Ever =  0.907363
+ Attributes are         116         225         252         331
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   362.0000      out of bounds domains rejected
+ Elapsed for iteration   83.00000      is   6.781250      seconds
+  MaxScore =  0.907363 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are         116         225         252          81
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   354.0000      out of bounds domains rejected
+ Elapsed for iteration   84.00000      is   6.859375      seconds
+  MaxScore =  0.907363 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are         290         116         225         252
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   361.0000      out of bounds domains rejected
+ Elapsed for iteration   85.00000      is   6.937500      seconds
+  MaxScore =  0.906176 dzmax = -0.001188 Max Score Ever =  0.907363
+ Attributes are         116         225         331         290
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   6.000000      out of bounds domains rejected
+ Elapsed for iteration   86.00000      is   7.015625      seconds
+  MaxScore =  0.904988 dzmax = -0.001188 Max Score Ever =  0.907363
+ Attributes are         147         225         290         331
+        3356  neighbourhood moves checked for the current step
+   1.000000      better domains than current solution
+   25.00000      out of bounds domains rejected
+ Elapsed for iteration   87.00000      is   7.109375      seconds
+  MaxScore =  0.906176 dzmax =  0.001188 Max Score Ever =  0.907363
+ Attributes are         147         225          17         331
+        3356  neighbourhood moves checked for the current step
+   3.000000      better domains than current solution
+   6.000000      out of bounds domains rejected
+ Elapsed for iteration   88.00000      is   7.203125      seconds
+  MaxScore =  0.907363 dzmax =  0.001188 Max Score Ever =  0.907363
+ Attributes are          17         147         215         331
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   14.00000      out of bounds domains rejected
+ Elapsed for iteration   89.00000      is   7.296875      seconds
+  MaxScore =  0.906176 dzmax = -0.001188 Max Score Ever =  0.907363
+ Attributes are          17          71         215         331
+        3356  neighbourhood moves checked for the current step
+   1.000000      better domains than current solution
+   360.0000      out of bounds domains rejected
+ Elapsed for iteration   90.00000      is   7.375000      seconds
+  MaxScore =  0.906176 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are          17         152         215         331
+        3356  neighbourhood moves checked for the current step
+   1.000000      better domains than current solution
+   361.0000      out of bounds domains rejected
+ Elapsed for iteration   91.00000      is   7.453125      seconds
+  MaxScore =  0.907363 dzmax =  0.001188 Max Score Ever =  0.907363
+ Attributes are          17         152         215         290
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   363.0000      out of bounds domains rejected
+ Elapsed for iteration   92.00000      is   7.531250      seconds
+  MaxScore =  0.906176 dzmax = -0.001188 Max Score Ever =  0.907363
+ Attributes are          15         152         215         290
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   369.0000      out of bounds domains rejected
+ Elapsed for iteration   93.00000      is   7.609375      seconds
+  MaxScore =  0.906176 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are          15         152         215         147
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   354.0000      out of bounds domains rejected
+ Elapsed for iteration   94.00000      is   7.687500      seconds
+  MaxScore =  0.906176 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are          15          63         152         215
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   356.0000      out of bounds domains rejected
+ Elapsed for iteration   95.00000      is   7.765625      seconds
+  MaxScore =  0.906176 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are          15          63         116         215
+        3356  neighbourhood moves checked for the current step
+   1.000000      better domains than current solution
+   349.0000      out of bounds domains rejected
+ Elapsed for iteration   96.00000      is   7.843750      seconds
+  MaxScore =  0.907363 dzmax =  0.001188 Max Score Ever =  0.907363
+ Attributes are         225          63         116         215
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   350.0000      out of bounds domains rejected
+ Elapsed for iteration   97.00000      is   7.921875      seconds
+  MaxScore =  0.904988 dzmax = -0.002375 Max Score Ever =  0.907363
+ Attributes are         223         116         215         225
+        3356  neighbourhood moves checked for the current step
+   4.000000      better domains than current solution
+   361.0000      out of bounds domains rejected
+ Elapsed for iteration   98.00000      is   8.000000      seconds
+  MaxScore =  0.904988 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are         116         251         223         225
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   361.0000      out of bounds domains rejected
+ Elapsed for iteration   99.00000      is   8.078125      seconds
+  MaxScore =  0.904988 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are         116           5         225         251
+        3356  neighbourhood moves checked for the current step
+   4.000000      better domains than current solution
+   354.0000      out of bounds domains rejected
+ Elapsed for iteration   100.0000      is   8.156250      seconds
+  MaxScore =  0.907363 dzmax =  0.002375 Max Score Ever =  0.907363
+ Attributes are          81         116         225         251
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   354.0000      out of bounds domains rejected
+ Elapsed for iteration   101.0000      is   8.234375      seconds
+  MaxScore =  0.907363 dzmax = -0.000000 Max Score Ever =  0.907363
+ Attributes are         290         116         225         251
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   361.0000      out of bounds domains rejected
+ Elapsed for iteration   102.0000      is   8.312500      seconds
+  MaxScore =  0.907363 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are         116         225         251         331
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   362.0000      out of bounds domains rejected
+ Elapsed for iteration   103.0000      is   8.390625      seconds
+  MaxScore =  0.907363 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are         116         225         252         331
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   362.0000      out of bounds domains rejected
+ Elapsed for iteration   104.0000      is   8.468750      seconds
+  MaxScore =  0.907363 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are         116         225         252          81
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   354.0000      out of bounds domains rejected
+ Elapsed for iteration   105.0000      is   8.546875      seconds
+  MaxScore =  0.907363 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are         290         116         225         252
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   361.0000      out of bounds domains rejected
+ Elapsed for iteration   106.0000      is   8.625000      seconds
+  MaxScore =  0.906176 dzmax = -0.001188 Max Score Ever =  0.907363
+ Attributes are         116         225         331         290
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   6.000000      out of bounds domains rejected
+ Elapsed for iteration   107.0000      is   8.703125      seconds
+  MaxScore =  0.904988 dzmax = -0.001188 Max Score Ever =  0.907363
+ Attributes are         147         225         290         331
+        3356  neighbourhood moves checked for the current step
+   1.000000      better domains than current solution
+   25.00000      out of bounds domains rejected
+ Elapsed for iteration   108.0000      is   8.781250      seconds
+  MaxScore =  0.906176 dzmax =  0.001188 Max Score Ever =  0.907363
+ Attributes are         147         225          17         331
+        3356  neighbourhood moves checked for the current step
+   4.000000      better domains than current solution
+   6.000000      out of bounds domains rejected
+ Elapsed for iteration   109.0000      is   8.875000      seconds
+  MaxScore =  0.907363 dzmax =  0.001188 Max Score Ever =  0.907363
+ Attributes are          17         147         215         331
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   14.00000      out of bounds domains rejected
+ Elapsed for iteration   110.0000      is   8.953125      seconds
+  MaxScore =  0.906176 dzmax = -0.001188 Max Score Ever =  0.907363
+ Attributes are          17          71         215         331
+        3356  neighbourhood moves checked for the current step
+   1.000000      better domains than current solution
+   360.0000      out of bounds domains rejected
+ Elapsed for iteration   111.0000      is   9.031250      seconds
+  MaxScore =  0.906176 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are          17         152         215         331
+        3356  neighbourhood moves checked for the current step
+   1.000000      better domains than current solution
+   361.0000      out of bounds domains rejected
+ Elapsed for iteration   112.0000      is   9.109375      seconds
+  MaxScore =  0.907363 dzmax =  0.001188 Max Score Ever =  0.907363
+ Attributes are          17         152         215         290
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   363.0000      out of bounds domains rejected
+ Elapsed for iteration   113.0000      is   9.187500      seconds
+  MaxScore =  0.906176 dzmax = -0.001188 Max Score Ever =  0.907363
+ Attributes are          15         152         215         290
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   369.0000      out of bounds domains rejected
+ Elapsed for iteration   114.0000      is   9.265625      seconds
+  MaxScore =  0.906176 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are          15         152         215         147
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   354.0000      out of bounds domains rejected
+ Elapsed for iteration   115.0000      is   9.343750      seconds
+  MaxScore =  0.906176 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are          15          63         152         215
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   356.0000      out of bounds domains rejected
+ Elapsed for iteration   116.0000      is   9.421875      seconds
+  MaxScore =  0.906176 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are          15          63         116         215
+        3356  neighbourhood moves checked for the current step
+   1.000000      better domains than current solution
+   349.0000      out of bounds domains rejected
+ Elapsed for iteration   117.0000      is   9.500000      seconds
+  MaxScore =  0.907363 dzmax =  0.001188 Max Score Ever =  0.907363
+ Attributes are         225          63         116         215
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   350.0000      out of bounds domains rejected
+ Elapsed for iteration   118.0000      is   9.578125      seconds
+  MaxScore =  0.904988 dzmax = -0.002375 Max Score Ever =  0.907363
+ Attributes are         223         116         215         225
+        3356  neighbourhood moves checked for the current step
+   4.000000      better domains than current solution
+   361.0000      out of bounds domains rejected
+ Elapsed for iteration   119.0000      is   9.656250      seconds
+  MaxScore =  0.904988 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are         116         251         223         225
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   361.0000      out of bounds domains rejected
+ Elapsed for iteration   120.0000      is   9.734375      seconds
+  MaxScore =  0.904988 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are         116           5         225         251
+        3356  neighbourhood moves checked for the current step
+   3.000000      better domains than current solution
+   354.0000      out of bounds domains rejected
+ Elapsed for iteration   121.0000      is   9.796875      seconds
+  MaxScore =  0.907363 dzmax =  0.002375 Max Score Ever =  0.907363
+ Attributes are          81         116         225         251
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   354.0000      out of bounds domains rejected
+ Elapsed for iteration   122.0000      is   9.875000      seconds
+  MaxScore =  0.907363 dzmax = -0.000000 Max Score Ever =  0.907363
+ Attributes are         290         116         225         251
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   361.0000      out of bounds domains rejected
+ Elapsed for iteration   123.0000      is   9.953125      seconds
+  MaxScore =  0.907363 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are         116         225         251         331
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   362.0000      out of bounds domains rejected
+ Elapsed for iteration   124.0000      is   10.03125      seconds
+  MaxScore =  0.907363 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are         116         225         252         331
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   362.0000      out of bounds domains rejected
+ Elapsed for iteration   125.0000      is   10.10938      seconds
+  MaxScore =  0.907363 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are         116         225         252          81
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   354.0000      out of bounds domains rejected
+ Elapsed for iteration   126.0000      is   10.20312      seconds
+  MaxScore =  0.907363 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are         290         116         225         252
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   361.0000      out of bounds domains rejected
+ Elapsed for iteration   127.0000      is   10.28125      seconds
+  MaxScore =  0.906176 dzmax = -0.001188 Max Score Ever =  0.907363
+ Attributes are         116         225         331         290
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   6.000000      out of bounds domains rejected
+ Elapsed for iteration   128.0000      is   10.35938      seconds
+  MaxScore =  0.904988 dzmax = -0.001188 Max Score Ever =  0.907363
+ Attributes are         147         225         290         331
+        3356  neighbourhood moves checked for the current step
+   1.000000      better domains than current solution
+   25.00000      out of bounds domains rejected
+ Elapsed for iteration   129.0000      is   10.43750      seconds
+  MaxScore =  0.906176 dzmax =  0.001188 Max Score Ever =  0.907363
+ Attributes are         147         225          17         331
+        3356  neighbourhood moves checked for the current step
+   4.000000      better domains than current solution
+   6.000000      out of bounds domains rejected
+ Elapsed for iteration   130.0000      is   10.53125      seconds
+  MaxScore =  0.907363 dzmax =  0.001188 Max Score Ever =  0.907363
+ Attributes are          17         147         215         331
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   14.00000      out of bounds domains rejected
+ Elapsed for iteration   131.0000      is   10.62500      seconds
+  MaxScore =  0.906176 dzmax = -0.001188 Max Score Ever =  0.907363
+ Attributes are          17          71         215         331
+        3356  neighbourhood moves checked for the current step
+   1.000000      better domains than current solution
+   360.0000      out of bounds domains rejected
+ Elapsed for iteration   132.0000      is   10.70312      seconds
+  MaxScore =  0.906176 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are          17         152         215         331
+        3356  neighbourhood moves checked for the current step
+   1.000000      better domains than current solution
+   361.0000      out of bounds domains rejected
+ Elapsed for iteration   133.0000      is   10.78125      seconds
+  MaxScore =  0.907363 dzmax =  0.001188 Max Score Ever =  0.907363
+ Attributes are          17         152         215         290
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   363.0000      out of bounds domains rejected
+ Elapsed for iteration   134.0000      is   10.85938      seconds
+  MaxScore =  0.906176 dzmax = -0.001188 Max Score Ever =  0.907363
+ Attributes are          15         152         215         290
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   369.0000      out of bounds domains rejected
+ Elapsed for iteration   135.0000      is   10.93750      seconds
+  MaxScore =  0.906176 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are          15         152         215         147
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   354.0000      out of bounds domains rejected
+ Elapsed for iteration   136.0000      is   11.01562      seconds
+  MaxScore =  0.906176 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are          15          63         152         215
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   356.0000      out of bounds domains rejected
+ Elapsed for iteration   137.0000      is   11.09375      seconds
+  MaxScore =  0.906176 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are          15          63         116         215
+        3356  neighbourhood moves checked for the current step
+   1.000000      better domains than current solution
+   349.0000      out of bounds domains rejected
+ Elapsed for iteration   138.0000      is   11.17188      seconds
+  MaxScore =  0.907363 dzmax =  0.001188 Max Score Ever =  0.907363
+ Attributes are         225          63         116         215
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   350.0000      out of bounds domains rejected
+ Elapsed for iteration   139.0000      is   11.25000      seconds
+  MaxScore =  0.904988 dzmax = -0.002375 Max Score Ever =  0.907363
+ Attributes are         223         116         215         225
+        3356  neighbourhood moves checked for the current step
+   4.000000      better domains than current solution
+   361.0000      out of bounds domains rejected
+ Elapsed for iteration   140.0000      is   11.32812      seconds
+  MaxScore =  0.904988 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are         116         251         223         225
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   361.0000      out of bounds domains rejected
+ Elapsed for iteration   141.0000      is   11.40625      seconds
+  MaxScore =  0.904988 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are         116           5         225         251
+        3356  neighbourhood moves checked for the current step
+   3.000000      better domains than current solution
+   354.0000      out of bounds domains rejected
+ Elapsed for iteration   142.0000      is   11.48438      seconds
+  MaxScore =  0.907363 dzmax =  0.002375 Max Score Ever =  0.907363
+ Attributes are          81         116         225         251
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   354.0000      out of bounds domains rejected
+ Elapsed for iteration   143.0000      is   11.56250      seconds
+  MaxScore =  0.907363 dzmax = -0.000000 Max Score Ever =  0.907363
+ Attributes are         290         116         225         251
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   361.0000      out of bounds domains rejected
+ Elapsed for iteration   144.0000      is   11.64062      seconds
+  MaxScore =  0.907363 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are         116         225         251         331
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   362.0000      out of bounds domains rejected
+ Elapsed for iteration   145.0000      is   11.71875      seconds
+  MaxScore =  0.907363 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are         116         225         252         331
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   362.0000      out of bounds domains rejected
+ Elapsed for iteration   146.0000      is   11.79688      seconds
+  MaxScore =  0.907363 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are         116         225         252          81
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   354.0000      out of bounds domains rejected
+ Elapsed for iteration   147.0000      is   11.87500      seconds
+  MaxScore =  0.907363 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are         290         116         225         252
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   361.0000      out of bounds domains rejected
+ Elapsed for iteration   148.0000      is   11.95312      seconds
+  MaxScore =  0.906176 dzmax = -0.001188 Max Score Ever =  0.907363
+ Attributes are         116         225         331         290
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   6.000000      out of bounds domains rejected
+ Elapsed for iteration   149.0000      is   12.03125      seconds
+  MaxScore =  0.904988 dzmax = -0.001188 Max Score Ever =  0.907363
+ Attributes are         147         225         290         331
+        3356  neighbourhood moves checked for the current step
+   1.000000      better domains than current solution
+   25.00000      out of bounds domains rejected
+ Elapsed for iteration   150.0000      is   12.12500      seconds
+  MaxScore =  0.906176 dzmax =  0.001188 Max Score Ever =  0.907363
+ Attributes are         147         225          17         331
+        3356  neighbourhood moves checked for the current step
+   4.000000      better domains than current solution
+   6.000000      out of bounds domains rejected
+ Elapsed for iteration   151.0000      is   12.20312      seconds
+  MaxScore =  0.907363 dzmax =  0.001188 Max Score Ever =  0.907363
+ Attributes are          17         147         215         331
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   14.00000      out of bounds domains rejected
+ Elapsed for iteration   152.0000      is   12.28125      seconds
+  MaxScore =  0.906176 dzmax = -0.001188 Max Score Ever =  0.907363
+ Attributes are          17          71         215         331
+        3356  neighbourhood moves checked for the current step
+   1.000000      better domains than current solution
+   360.0000      out of bounds domains rejected
+ Elapsed for iteration   153.0000      is   12.35938      seconds
+  MaxScore =  0.906176 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are          17         152         215         331
+        3356  neighbourhood moves checked for the current step
+   1.000000      better domains than current solution
+   361.0000      out of bounds domains rejected
+ Elapsed for iteration   154.0000      is   12.43750      seconds
+  MaxScore =  0.907363 dzmax =  0.001188 Max Score Ever =  0.907363
+ Attributes are          17         152         215         290
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   363.0000      out of bounds domains rejected
+ Elapsed for iteration   155.0000      is   12.51562      seconds
+  MaxScore =  0.906176 dzmax = -0.001188 Max Score Ever =  0.907363
+ Attributes are          15         152         215         290
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   369.0000      out of bounds domains rejected
+ Elapsed for iteration   156.0000      is   12.59375      seconds
+  MaxScore =  0.906176 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are          15         152         215         147
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   354.0000      out of bounds domains rejected
+ Elapsed for iteration   157.0000      is   12.67188      seconds
+  MaxScore =  0.906176 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are          15          63         152         215
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   356.0000      out of bounds domains rejected
+ Elapsed for iteration   158.0000      is   12.75000      seconds
+  MaxScore =  0.906176 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are          15          63         116         215
+        3356  neighbourhood moves checked for the current step
+   1.000000      better domains than current solution
+   349.0000      out of bounds domains rejected
+ Elapsed for iteration   159.0000      is   12.82812      seconds
+  MaxScore =  0.907363 dzmax =  0.001188 Max Score Ever =  0.907363
+ Attributes are         225          63         116         215
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   350.0000      out of bounds domains rejected
+ Elapsed for iteration   160.0000      is   12.90625      seconds
+  MaxScore =  0.904988 dzmax = -0.002375 Max Score Ever =  0.907363
+ Attributes are         223         116         215         225
+        3356  neighbourhood moves checked for the current step
+   4.000000      better domains than current solution
+   361.0000      out of bounds domains rejected
+ Elapsed for iteration   161.0000      is   12.98438      seconds
+  MaxScore =  0.904988 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are         116         251         223         225
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   361.0000      out of bounds domains rejected
+ Elapsed for iteration   162.0000      is   13.06250      seconds
+  MaxScore =  0.904988 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are         116           5         225         251
+        3356  neighbourhood moves checked for the current step
+   3.000000      better domains than current solution
+   354.0000      out of bounds domains rejected
+ Elapsed for iteration   163.0000      is   13.14062      seconds
+  MaxScore =  0.907363 dzmax =  0.002375 Max Score Ever =  0.907363
+ Attributes are          81         116         225         251
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   354.0000      out of bounds domains rejected
+ Elapsed for iteration   164.0000      is   13.21875      seconds
+  MaxScore =  0.907363 dzmax = -0.000000 Max Score Ever =  0.907363
+ Attributes are         290         116         225         251
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   361.0000      out of bounds domains rejected
+ Elapsed for iteration   165.0000      is   13.29688      seconds
+  MaxScore =  0.907363 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are         116         225         251         331
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   362.0000      out of bounds domains rejected
+ Elapsed for iteration   166.0000      is   13.37500      seconds
+  MaxScore =  0.907363 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are         116         225         252         331
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   362.0000      out of bounds domains rejected
+ Elapsed for iteration   167.0000      is   13.45312      seconds
+  MaxScore =  0.907363 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are         116         225         252          81
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   354.0000      out of bounds domains rejected
+ Elapsed for iteration   168.0000      is   13.53125      seconds
+  MaxScore =  0.907363 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are         290         116         225         252
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   361.0000      out of bounds domains rejected
+ Elapsed for iteration   169.0000      is   13.60938      seconds
+  MaxScore =  0.906176 dzmax = -0.001188 Max Score Ever =  0.907363
+ Attributes are         116         225         331         290
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   6.000000      out of bounds domains rejected
+ Elapsed for iteration   170.0000      is   13.70312      seconds
+  MaxScore =  0.904988 dzmax = -0.001188 Max Score Ever =  0.907363
+ Attributes are         147         225         290         331
+        3356  neighbourhood moves checked for the current step
+   1.000000      better domains than current solution
+   25.00000      out of bounds domains rejected
+ Elapsed for iteration   171.0000      is   13.79688      seconds
+  MaxScore =  0.906176 dzmax =  0.001188 Max Score Ever =  0.907363
+ Attributes are         147         225          17         331
+        3356  neighbourhood moves checked for the current step
+   4.000000      better domains than current solution
+   6.000000      out of bounds domains rejected
+ Elapsed for iteration   172.0000      is   13.89062      seconds
+  MaxScore =  0.907363 dzmax =  0.001188 Max Score Ever =  0.907363
+ Attributes are          17         147         215         331
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   14.00000      out of bounds domains rejected
+ Elapsed for iteration   173.0000      is   13.96875      seconds
+  MaxScore =  0.906176 dzmax = -0.001188 Max Score Ever =  0.907363
+ Attributes are          17          71         215         331
+        3356  neighbourhood moves checked for the current step
+   1.000000      better domains than current solution
+   360.0000      out of bounds domains rejected
+ Elapsed for iteration   174.0000      is   14.04688      seconds
+  MaxScore =  0.906176 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are          17         152         215         331
+        3356  neighbourhood moves checked for the current step
+   1.000000      better domains than current solution
+   361.0000      out of bounds domains rejected
+ Elapsed for iteration   175.0000      is   14.12500      seconds
+  MaxScore =  0.907363 dzmax =  0.001188 Max Score Ever =  0.907363
+ Attributes are          17         152         215         290
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   363.0000      out of bounds domains rejected
+ Elapsed for iteration   176.0000      is   14.20312      seconds
+  MaxScore =  0.906176 dzmax = -0.001188 Max Score Ever =  0.907363
+ Attributes are          15         152         215         290
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   369.0000      out of bounds domains rejected
+ Elapsed for iteration   177.0000      is   14.28125      seconds
+  MaxScore =  0.906176 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are          15         152         215         147
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   354.0000      out of bounds domains rejected
+ Elapsed for iteration   178.0000      is   14.35938      seconds
+  MaxScore =  0.906176 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are          15          63         152         215
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   356.0000      out of bounds domains rejected
+ Elapsed for iteration   179.0000      is   14.43750      seconds
+  MaxScore =  0.906176 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are          15          63         116         215
+        3356  neighbourhood moves checked for the current step
+   1.000000      better domains than current solution
+   349.0000      out of bounds domains rejected
+ Elapsed for iteration   180.0000      is   14.51562      seconds
+  MaxScore =  0.907363 dzmax =  0.001188 Max Score Ever =  0.907363
+ Attributes are         225          63         116         215
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   350.0000      out of bounds domains rejected
+ Elapsed for iteration   181.0000      is   14.59375      seconds
+  MaxScore =  0.904988 dzmax = -0.002375 Max Score Ever =  0.907363
+ Attributes are         223         116         215         225
+        3356  neighbourhood moves checked for the current step
+   4.000000      better domains than current solution
+   361.0000      out of bounds domains rejected
+ Elapsed for iteration   182.0000      is   14.67188      seconds
+  MaxScore =  0.904988 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are         116         251         223         225
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   361.0000      out of bounds domains rejected
+ Elapsed for iteration   183.0000      is   14.75000      seconds
+  MaxScore =  0.904988 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are         116           5         225         251
+        3356  neighbourhood moves checked for the current step
+   3.000000      better domains than current solution
+   354.0000      out of bounds domains rejected
+ Elapsed for iteration   184.0000      is   14.82812      seconds
+  MaxScore =  0.907363 dzmax =  0.002375 Max Score Ever =  0.907363
+ Attributes are          81         116         225         251
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   354.0000      out of bounds domains rejected
+ Elapsed for iteration   185.0000      is   14.89062      seconds
+  MaxScore =  0.907363 dzmax = -0.000000 Max Score Ever =  0.907363
+ Attributes are         290         116         225         251
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   361.0000      out of bounds domains rejected
+ Elapsed for iteration   186.0000      is   14.96875      seconds
+  MaxScore =  0.907363 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are         116         225         251         331
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   362.0000      out of bounds domains rejected
+ Elapsed for iteration   187.0000      is   15.04688      seconds
+  MaxScore =  0.907363 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are         116         225         252         331
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   362.0000      out of bounds domains rejected
+ Elapsed for iteration   188.0000      is   15.12500      seconds
+  MaxScore =  0.907363 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are         116         225         252          81
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   354.0000      out of bounds domains rejected
+ Elapsed for iteration   189.0000      is   15.20312      seconds
+  MaxScore =  0.907363 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are         290         116         225         252
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   361.0000      out of bounds domains rejected
+ Elapsed for iteration   190.0000      is   15.28125      seconds
+  MaxScore =  0.906176 dzmax = -0.001188 Max Score Ever =  0.907363
+ Attributes are         116         225         331         290
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   6.000000      out of bounds domains rejected
+ Elapsed for iteration   191.0000      is   15.35938      seconds
+  MaxScore =  0.904988 dzmax = -0.001188 Max Score Ever =  0.907363
+ Attributes are         147         225         290         331
+        3356  neighbourhood moves checked for the current step
+   1.000000      better domains than current solution
+   25.00000      out of bounds domains rejected
+ Elapsed for iteration   192.0000      is   15.45312      seconds
+  MaxScore =  0.906176 dzmax =  0.001188 Max Score Ever =  0.907363
+ Attributes are         147         225          17         331
+        3356  neighbourhood moves checked for the current step
+   4.000000      better domains than current solution
+   6.000000      out of bounds domains rejected
+ Elapsed for iteration   193.0000      is   15.53125      seconds
+  MaxScore =  0.907363 dzmax =  0.001188 Max Score Ever =  0.907363
+ Attributes are          17         147         215         331
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   14.00000      out of bounds domains rejected
+ Elapsed for iteration   194.0000      is   15.62500      seconds
+  MaxScore =  0.906176 dzmax = -0.001188 Max Score Ever =  0.907363
+ Attributes are          17          71         215         331
+        3356  neighbourhood moves checked for the current step
+   1.000000      better domains than current solution
+   360.0000      out of bounds domains rejected
+ Elapsed for iteration   195.0000      is   15.70312      seconds
+  MaxScore =  0.906176 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are          17         152         215         331
+        3356  neighbourhood moves checked for the current step
+   1.000000      better domains than current solution
+   361.0000      out of bounds domains rejected
+ Elapsed for iteration   196.0000      is   15.78125      seconds
+  MaxScore =  0.907363 dzmax =  0.001188 Max Score Ever =  0.907363
+ Attributes are          17         152         215         290
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   363.0000      out of bounds domains rejected
+ Elapsed for iteration   197.0000      is   15.85938      seconds
+  MaxScore =  0.906176 dzmax = -0.001188 Max Score Ever =  0.907363
+ Attributes are          15         152         215         290
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   369.0000      out of bounds domains rejected
+ Elapsed for iteration   198.0000      is   15.93750      seconds
+  MaxScore =  0.906176 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are          15         152         215         147
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   354.0000      out of bounds domains rejected
+ Elapsed for iteration   199.0000      is   16.01562      seconds
+  MaxScore =  0.906176 dzmax =  0.000000 Max Score Ever =  0.907363
+ Attributes are          15          63         152         215
+        3356  neighbourhood moves checked for the current step
+  0.0000000E+00  better domains than current solution
+   356.0000      out of bounds domains rejected
+ Elapsed for iteration   200.0000      is   16.09375      seconds
+ Argmax is   9.525700122026137E-007   1.00000020118313     
+   129.499995092796       -70.9999985135055     
+ MaxScore Ever is   0.907363420427553     
+ MaxScore at Argmax is   0.907363420427553     
+ coefficient of variable 0 b(0) is   1.00000000000000     
+ attributes are          69         223         423         438
+ ntenure =           20 niterover =          200 niternotimproved =           20
+ Time of computation was    16.09375      seconds

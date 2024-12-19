@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1972
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "discrete_tabu_search_mws", "discrete_tabu_search_mws\discrete_tabu_search_mws.vfproj", "{1536C4A5-0FEB-4E19-8FAD-27FAE275A7DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1536C4A5-0FEB-4E19-8FAD-27FAE275A7DB}.Debug|x64.ActiveCfg = Debug|x64
+		{1536C4A5-0FEB-4E19-8FAD-27FAE275A7DB}.Debug|x64.Build.0 = Debug|x64
+		{1536C4A5-0FEB-4E19-8FAD-27FAE275A7DB}.Debug|x86.ActiveCfg = Debug|Win32
+		{1536C4A5-0FEB-4E19-8FAD-27FAE275A7DB}.Debug|x86.Build.0 = Debug|Win32
+		{1536C4A5-0FEB-4E19-8FAD-27FAE275A7DB}.Release|x64.ActiveCfg = Release|x64
+		{1536C4A5-0FEB-4E19-8FAD-27FAE275A7DB}.Release|x64.Build.0 = Release|x64
+		{1536C4A5-0FEB-4E19-8FAD-27FAE275A7DB}.Release|x86.ActiveCfg = Release|Win32
+		{1536C4A5-0FEB-4E19-8FAD-27FAE275A7DB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09CCE75D-4F0D-4393-9759-0F1B5B71A210}
+	EndGlobalSection
+EndGlobal
