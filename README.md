@@ -74,6 +74,14 @@ The software at the time of inspection of results presents a screen with the pro
 
 Then, the user can complete the analysis hitting CLOSE button and inspect the solution output files already discussed above.  
 
+# Known issue
+
+If you don't have Visual Studio 2017 installed, you may get this error when opening DisplayGrid-MFC.exe. 
+'The code execution cannot proceed because mfc140u.dll was not found. Reinstalling the program may fix this problem'.
+Solution: go to link https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-150#visual-studio-2015-2017-2019-and-2022
+and install the Latest Microsoft Visual C++ Redistributable Version. It is the same file for versions of Visual Studio 2015 - 2022.
+Choose your architecture X64 or X86. In my system I have installed both (X64 system).
+
 # Acknowledgements 
 
 I would like to thank Dr. **Alexandros Louka** and Professor **Yannis Bilias** for their valuable help and the shared ideas for the development of HITS. The development of the HITS software was supported by the Hellenic Foundation for Research and Innovation (H.F.R.I.) under the '2nd Call for H.F.R.I. Research Projects to support Post-Doctoral Researchers' (Project Number: 902). 
